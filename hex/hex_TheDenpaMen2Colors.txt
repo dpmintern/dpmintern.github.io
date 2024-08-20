@@ -1,0 +1,35 @@
+The Denpa Men 2 Colors (location of Natural color at A0A6 on the first denpa):
+
+Offset 00/Decoded Text: � - Black
+Offset 01/Decoded Text: ☺ - Red
+Offset 02/Decoded Text: ☻ - Light Blue
+Offset 03/Decoded Text: ♥ - Green
+Offset 04/Decoded Text: ♦ - Orange
+Offset 05/Decoded Text: ♣ - Yellow
+Offset 06/Decoded Text: ♠ - Blue
+Offset 07/Decoded Text: • - White
+Offset 08/Decoded Text: ◘ - Red/Light Blue
+Offset 09/Decoded Text: ○ - Red/Green
+Offset 0A/Decoded Text: ◙ - Red/Orange
+Offset 0B/Decoded Text: ♂ - Red/Yellow
+Offset 0C/Decoded Text: ♀ - Red/Blue
+Offset 0D/Decoded Text: ♪ - Red/White
+Offset 0E/Decoded Text: ♫ - Light Blue/Green
+Offset 0F/Decoded Text: ☼ - Light Blue/Orange
+Offset 10/Decoded Text: ► - Light Blue/Yellow
+Offset 11/Decoded Text: ◄ - Light Blue/Blue
+Offset 12/Decoded Text: ↕ - Light Blue/White
+Offset 13/Decoded Text: ‼ - Orange/Green
+Offset 14/Decoded Text: ¶ - Yellow/Green
+Offset 15/Decoded Text: § - Blue/Green
+Offset 16/Decoded Text: ▬ - White/Green
+Offset 17/Decoded Text: ↨ - Orange/Yellow
+Offset 18/Decoded Text: ↑ - Orange/Blue
+Offset 19/Decoded Text: ↓ - Orange/White
+Offset 1A/Decoded Text: → - Yellow/Blue
+Offset 1B/Decoded Text: ← - Yellow/White
+Offset 1C/Decoded Text: ∟ - White/Blue
+Offset 1D/Decoded Text: ↔ - Purple
+Offset 1E/Decoded Text: ▲ - Gray
+Offset 1F/Decoded Text: ▼ - Gold
+Offset 20/Decoded Text:  (Space) - Pink
