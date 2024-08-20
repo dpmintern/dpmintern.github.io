@@ -19,6 +19,8 @@ This aims to be an aggregation of the collective work spearheaded by the communi
 
 - [Hex editing](./hex)
 
+- [Files](./files)
+
 # Check out
 
 - [Our unistore](./db)
@@ -26,3 +28,7 @@ This aims to be an aggregation of the collective work spearheaded by the communi
 - [The people publicly involved in this initiative](https://github.com/orgs/dpmintern/people)
 
 - [Our contribution guide](./CONTRIBUTING.md)
+
+- [Our cognate community wiki](https://thedenpamen.wiki.gg/wiki/The_Denpa_Men_Wiki)
+
+- [3dbrew](https://www.3dbrew.org/wiki/Main_Page)
