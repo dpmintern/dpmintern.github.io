@@ -1,0 +1,14 @@
+A0A4 - Text
+A0A5 - Antenna
+A0A6 - Natural Color
+A0A7, A11F,  - Head Shape
+A0A8 - Body Shape
+A0A9 - Face Shape and Skin
+A0AA - Hair
+A0AB - Hair Color
+A0AC - Eyelashes
+A0AD - Eyes
+A0AE - Nose
+A0AF - Mouth
+A0B0 - Cheeks
+A0B1 - Glasses

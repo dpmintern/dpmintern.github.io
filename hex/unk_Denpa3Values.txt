@@ -1,0 +1,266 @@
+As you have seen the TheDenpaMen3Look and the TDMF(Extended).txts Here's some values for the denpa's face shape, mouth,
+glasses (TDM3 only), eyes, nose and stuff!
+
+Glasses:
+Offset 00/Decoded Text: � - No glasses
+Offset 01/Decoded Text: ☺ - Green glasses
+Offset 02/Decoded Text: ☻ - Pink glasses
+Offset 03/Decoded Text: ♥ - Sunglasses
+Offset 04/Decoded Text: ♦ - Gold Glasses (AKA Bill's glasses)
+Offset 05/Decoded Text: ♣ - Orange Glasses
+Offset 06/Decoded Text: ♠ - Hero Mask 1
+Offset 07/Decoded Text: • - Brown glasses
+Offset 08/Decoded Text: ◘ - Blue glasses
+Offset 09/Decoded Text: ○ - Hero Mask 2 (Masquerade)
+Offset 0A/Decoded Text: ◙ - Black Glasses
+Offset 0B/Decoded Text: ♂ - Hero Mask 3
+Offset 0C/Decoded Text: ♀ - Goggles
+Offset 0D/Decoded Text: ♪ - Bug eyes
+Offset 0E/Decoded Text: ♫ - Alien eyes
+Offset 0F/Decoded Text: ☼ - Heart Glasses
+Offset 10/Decoded Text: ► - Star glasses
+Offset 11/Decoded Text: ◄ - Red glasses
+Offset 12/Decoded Text: ↕ - Visor?
+Offset 13/Decoded Text: ‼ - Goggles
+Offset 14/Decoded Text: ¶ - Laser Visor
+Offset 15/Decoded Text: § - Small glasses
+Offset 16/Decoded Text: ▬ - Insomnia glasses
+Offset 17/Decoded Text: ↨ - Big Glasses
+
+Skin:
+Offset 00/Decoded Text: � - Lightest
+Offset 01/Decoded Text: ☺ - Light
+Offset 02/Decoded Text: ☻ - Pale
+Offset 03/Decoded Text: ♥ - Half-Pale
+Offset 04/Decoded Text: ♦ - Dark
+Offset 05/Decoded Text: ♣ - Darkest
+
+Eyes*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+Offset 20/Decoded Text:  
+Offset 21/Decoded Text: !
+Offset 22/Decoded Text: "
+Offset 23/Decoded Text: #
+Offset 24/Decoded Text: $
+Offset 25/Decoded Text: %
+Offset 26/Decoded Text: &
+Offset 27/Decoded Text: '
+Offset 28/Decoded Text: (
+Offset 29/Decoded Text: )
+Offset 2A/Decoded Text: *
+Offset 2B/Decoded Text: +
+Offset 2C/Decoded Text: ,
+Offset 2D/Decoded Text: -
+Offset 2E/Decoded Text: .
+Offset 2F/Decoded Text: /
+
+Nose*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+
+Cheeks*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+
+Eyelashes*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+
+Face Shape*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+
+Hair*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+Offset 20/Decoded Text:  
+Offset 21/Decoded Text: !
+Offset 22/Decoded Text: "
+Offset 23/Decoded Text: #
+Offset 24/Decoded Text: $
+Offset 25/Decoded Text: %
+Offset 26/Decoded Text: &
+Offset 27/Decoded Text: '
+
+Mouth:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+Offset 20/Decoded Text:  
+Offset 21/Decoded Text: !
+Offset 22/Decoded Text: "
+Offset 23/Decoded Text: #
+Offset 24/Decoded Text: $
+Offset 25/Decoded Text: %
+Offset 26/Decoded Text: &
+Offset 27/Decoded Text: '
+
+* - Required to see the textures for more info. You can check at #the-hacker-hole and in pinned messages you can see the
+textures and you can download them just in case!
+
+This is the V1/Beta of this, the headshapes will come out soon.
+
+Feel free to ping me or DM me if you need any help!
+
+(You have my permission to share this to some others who wants to modify their denpa men as long as you give it
+Credit)
+
+Made by: Elliot.
