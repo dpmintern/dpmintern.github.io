@@ -1,5 +1,7 @@
 # Archive files
 
+> Note: this should be moved to the docs for tdmextractor, probably
+
 The Denpa Men archive files, are, as far as we've come to know them, a proprietary archival format used in the Genius Sonority engine.
 They are used in conjunction with [ZIPs](https://en.wikipedia.org/wiki/ZIP_(file_format)) and [SARCs](https://fileinfo.com/extension/sarc)<sup>[note](#sarc-fork)</sup>.
 
