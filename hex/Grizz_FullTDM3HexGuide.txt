@@ -1,0 +1,462 @@
+Hey! Grizz here. I made this because the rest of the guides were all seperate, and clunky.
+Credits due where theyre due, Elliot, Minxy, and Adrian made (most of) these. I just compiled them all into one txt file.
+I also added a few missing values, for user convenience.
+
+***Antennae values:
+
+Recovery antenna:
+Offset 07/Decoded Text: • - Revive
+Offset 05/Decoded Text: ♣ - Heal
+Offset 08/Decoded Text: ◘ - Revive (All)
+Offset 06/Decoded Text: ♠ - Heal (All)
+
+Buff antenna:
+Offset 18/Decoded Text: ↑ - Rage
+Offset 19/Decoded Text: ↓ - Rage (All)
+Offset 1A/Decoded Text: → - Wall 
+Offset 1B/Decoded Text: ← - Wall (All)
+Offset 14/Decoded Text: ¶ - Invincible
+Offset 15/Decoded Text: § - Excite
+Offset 16/Decoded Text: ▬ - Steroids
+Offset 17/Decoded Text: ↨ - Reflect
+Offset 1C/Decoded Text: ∟ - Haste
+Offset 1D/Decoded Text: ↔ - Haste (All)
+Offset 1E/Decoded Text: ▲ - Dodge
+Offset 1F/Decoded Text: ▼ - Dodge (All)
+
+Bonus antenna:
+Offset 01/Decoded Text: ☺ - Treasure
+Offset 02/Decoded Text: ☻ - Rare Treasure
+Offset 03/Decoded Text: ♥ - Gold
+Offset 04/Decoded Text: ♦ - Stealthy
+
+Cure antenna:
+Offset 0C/Decoded Text: ♀ - Cure Sniffles
+Offset 0D/Decoded Text: ♪ - Mud Off
+Offset 0B/Decoded Text: ♂ - Dry
+Offset 0E/Decoded Text: ♫ - Purify
+Offset 0F/Decoded Text: ☼ - Cure Shock
+Offset 11/Decoded Text: ◄ - Mobilize
+Offset 12/Decoded Text: ↕ - Awaken
+Offset 13/Decoded Text: ‼ - Eye drops
+Offset 10/Decoded Text: ► - Hot Blanket
+Offset 0A/Decoded Text: ◙ - Cure Burn
+Offset 09/Decoded Text: ○ - Antidote
+
+Debuff antenna:
+Offset 20/Decoded Text:   - Poison Signal
+Offset 21/Decoded Text: ! - Fatal
+Offset 22/Decoded Text: " - Lullaby <--(Haha, funny coliseum antenna)
+Offset 23/Decoded Text: # - Paralyze <--(Haha, another funny coliseum antenna)
+Offset 24/Decoded Text: $ - Blindfold
+Offset 25/Decoded Text: % - Breath plug
+Offset 26/Decoded Text: & - Weaken
+Offset 27/Decoded Text: ' - Weaken (All)
+Offset 28/Decoded Text: ( - Insult
+Offset 29/Decoded Text: ) - Insult (All)
+Offset 2A/Decoded Text: * - Chain
+Offset 2B/Decoded Text: + - Chain (All)
+
+Attack antenna:
+Offset 2C/Decoded Text: , - Fireball
+Offset 2D/Decoded Text: - -Fire Cracker
+Offset 2E/Decoded Text: . - Forest Fire
+Offset 2F/Decoded Text: / - Icicle
+Offset 30/Decoded Text: 0 - On the Rocks
+Offset 31/Decoded Text: 1 - Hailstorm
+Offset 32/Decoded Text: 2 - Whirlwind
+Offset 33/Decoded Text: 3 - Breeze
+Offset 34/Decoded Text: 4 - Twister
+Offset 35/Decoded Text: 5 - Falling Rock
+Offset 36/Decoded Text: 6 - Pebbles
+Offset 37/Decoded Text: 7 - Magnitude 3
+Offset 38/Decoded Text: 8 - Static
+Offset 39/Decoded Text: 9 - Lightning
+Offset 3A/Decoded Text: : - 100 Volts
+Offset 3B/Decoded Text: ; - Water Gun
+Offset 3C/Decoded Text: < - Bucket of Water
+Offset 3D/Decoded Text: = - High Wave
+Offset 3E/Decoded Text: > - Weak Flash
+Offset 3F/Decoded Text: ? - Spotlight
+Offset 40/Decoded Text: @ - Winter Sunlight
+Offset 41/Decoded Text: A - Scare
+Offset 42/Decoded Text: B - Dark Ball
+Offset 43/Decoded Text: C - Dark Mist
+Offset 44/Decoded Text: D - Catch
+
+Dual antenna: (As of writing this, these dual antenna values worked for me, If they didn't for you, be sure to @ me and let me know)
+Offset 45/Decoded Text: E - Flame Ice
+Offset 46/Decoded Text: F - Firestorm
+Offset 47/Decoded Text: G - Meteor
+Offset 48/Decoded Text: H - Thundering Fire
+Offset 49/Decoded Text: I - Hydro Fire
+Offset 60/Decoded Text: ` - Hydro Storm
+Offset 61/Decoded Text: a - Muddy Flood
+Offset 62/Decoded Text: b - Thunder Squall
+Offset 63/Decoded Text: c - Dark Shine
+Offset 50/Decoded Text: P - Jet Blizzard
+Offset 51/Decoded Text: Q - Mud Hurricane
+Offset 52/Decoded Text: R - Turnder Hurricane
+Offset 55/Decoded Text: U - Ice Meteor
+Offset 57/Decoded Text: W - Thundering Ground
+Z - Thunder Blizzard
+
+***Headshape values:
+
+Offset 00/Decoded Text: � - Circle Headshape
+Offset 01/Decoded Text: ☺ - Oval Headshape
+Offset 02/Decoded Text: ☻ - 2nd Oval Headshape (Vertical)
+Offset 03/Decoded Text: ♥ - Triangle Headshape
+Offset 04/Decoded Text: ♦ - Onigiri Headshape
+Offset 05/Decoded Text: ♣ - Square Headshape
+Offset 06/Decoded Text: ♠ - Square Headshape 2
+Offset 07/Decoded Text: • - Teardrop Headshape
+Offset 08/Decoded Text: ◘ - Diamond ring Headshape
+Offset 09/Decoded Text: ○ - Bear Headshape
+Offset 0A/Decoded Text: ◙ - Speech Bubble Headshape
+Offset 0B/Decoded Text: ♂ - Footprint Headshape
+Offset 0C/Decoded Text: ♀ - Headphones Headshape
+Offset 0D/Decoded Text: ♪ - Squid Headshape
+Offset 0E/Decoded Text: ♫ - 1700 Curls Headshape
+Offset 0F/Decoded Text: ☼ - Star Headshape
+Offset 10/Decoded Text: ► - Mouse Headshape
+Offset 11/Decoded Text: ◄ - Heart Shape
+Offset 12/Decoded Text: ↕ - Cat Headshape
+Offset 13/Decoded Text: ‼ - Devil Horns Headshape
+Offset 14/Decoded Text: ¶ - Crescent Moon Headshape
+Offset 15/Decoded Text: § - Raindrop Headshape
+Offset 16/Decoded Text: ▬ - Headphones 2 Headshape
+Offset 17/Decoded Text: ↨ - Thorn Headshape
+Offset 18/Decoded Text: ↑ - Egg Headshape*
+Offset 19/Decoded Text: ↓ - Tower Headshape*
+Offset 1A/Decoded Text: → - Doggo Headshape*
+Offset 1B/Decoded Text: ← - Fire Headshape*
+Offset 1C/Decoded Text: ∟ - Fangs Headshape*
+Offset 1D/Decoded Text: ↔ - Ninja Star Headshape*
+Offset 1E/Decoded Text: ▲ - Hexagon Headshape*
+Offset 1F/Decoded Text: ▼ - Flower/Sun Headshape*
+Offset 20/Decoded Text:   - Bunny Headshape**
+Offset 21/Decoded Text: ! - Poo Headshape**
+Offset 22/Decoded Text: " - Castle Headshape**
+Offset 23/Decoded Text: # - Block Headshape**
+Offset 24/Decoded Text: $ - Bomb Headshape**
+Offset 25/Decoded Text: % - Saturn Headshape**
+Offset 26/Decoded Text: & - Tower 2 Headshape**
+Offset 27/Decoded Text: ' - Fish Headshape**
+
+* - Denpa Men 2 Only
+** - Denpa Men 3/Free Only
+
+NOTE: Certain values after the Fish Headshape value crashes your game, so be careful!
+
+***Color Values:
+
+Offset 00/Decoded Text: � - Black
+Offset 01/Decoded Text: ☺ - Red
+Offset 02/Decoded Text: ☻ - Light Blue
+Offset 03/Decoded Text: ♥ - Green
+Offset 04/Decoded Text: ♦ - Orange
+Offset 05/Decoded Text: ♣ - Yellow
+Offset 06/Decoded Text: ♠ - Blue
+Offset 07/Decoded Text: • - White
+Offset 08/Decoded Text: ◘ - Red/Light Blue
+Offset 09/Decoded Text: ○ - Red/Green
+Offset 0A/Decoded Text: ◙ - Red/Orange
+Offset 0B/Decoded Text: ♂ - Red/Yellow
+Offset 0C/Decoded Text: ♀ - Red/Blue
+Offset 0D/Decoded Text: ♪ - Red/White
+Offset 0E/Decoded Text: ♫ - Light Blue/Green
+Offset 0F/Decoded Text: ☼ - Light Blue/Orange
+Offset 10/Decoded Text: ► - Light Blue/Yellow
+Offset 11/Decoded Text: ◄ - Light Blue/Blue
+Offset 12/Decoded Text: ↕ - Light Blue/White
+Offset 13/Decoded Text: ‼ - Orange/Green
+Offset 14/Decoded Text: ¶ - Yellow/Green
+Offset 15/Decoded Text: § - Blue/Green
+Offset 16/Decoded Text: ▬ - White/Green
+Offset 17/Decoded Text: ↨ - Orange/Yellow
+Offset 18/Decoded Text: ↑ - Orange/Blue
+Offset 19/Decoded Text: ↓ - Orange/White
+Offset 1A/Decoded Text: → - Yellow/Blue
+Offset 1B/Decoded Text: ← - Yellow/White
+Offset 1C/Decoded Text: ∟ - White/Blue
+Offset 1D/Decoded Text: ↔ - Purple
+Offset 1E/Decoded Text: ▲ - Gray
+Offset 1F/Decoded Text: ▼ - Gold
+Offset 20/Decoded Text:  (Space) - Pink
+
+***Appearance Values:
+
+Glasses:
+Offset 00/Decoded Text: � - No glasses
+Offset 01/Decoded Text: ☺ - Green glasses
+Offset 02/Decoded Text: ☻ - Pink glasses
+Offset 03/Decoded Text: ♥ - Sunglasses
+Offset 04/Decoded Text: ♦ - Gold Glasses (AKA Bill's glasses)
+Offset 05/Decoded Text: ♣ - Orange Glasses
+Offset 06/Decoded Text: ♠ - Hero Mask 1
+Offset 07/Decoded Text: • - Brown glasses
+Offset 08/Decoded Text: ◘ - Blue glasses
+Offset 09/Decoded Text: ○ - Hero Mask 2 (Masquerade)
+Offset 0A/Decoded Text: ◙ - Black Glasses
+Offset 0B/Decoded Text: ♂ - Hero Mask 3
+Offset 0C/Decoded Text: ♀ - Goggles
+Offset 0D/Decoded Text: ♪ - Bug eyes
+Offset 0E/Decoded Text: ♫ - Alien eyes
+Offset 0F/Decoded Text: ☼ - Heart Glasses
+Offset 10/Decoded Text: ► - Star glasses
+Offset 11/Decoded Text: ◄ - Red glasses
+Offset 12/Decoded Text: ↕ - Visor?
+Offset 13/Decoded Text: ‼ - Goggles
+Offset 14/Decoded Text: ¶ - Laser Visor
+Offset 15/Decoded Text: § - Small glasses
+Offset 16/Decoded Text: ▬ - Insomnia glasses
+Offset 17/Decoded Text: ↨ - Big Glasses
+
+Skin:
+Offset 00/Decoded Text: � - Lightest
+Offset 01/Decoded Text: ☺ - Light
+Offset 02/Decoded Text: ☻ - Pale
+Offset 03/Decoded Text: ♥ - Half-Pale
+Offset 04/Decoded Text: ♦ - Dark
+Offset 05/Decoded Text: ♣ - Darkest
+
+Eyes*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+Offset 20/Decoded Text:  
+Offset 21/Decoded Text: !
+Offset 22/Decoded Text: "
+Offset 23/Decoded Text: #
+Offset 24/Decoded Text: $
+Offset 25/Decoded Text: %
+Offset 26/Decoded Text: &
+Offset 27/Decoded Text: '
+Offset 28/Decoded Text: (
+Offset 29/Decoded Text: )
+Offset 2A/Decoded Text: *
+Offset 2B/Decoded Text: +
+Offset 2C/Decoded Text: ,
+Offset 2D/Decoded Text: -
+Offset 2E/Decoded Text: .
+Offset 2F/Decoded Text: /
+
+Nose*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+
+Cheeks*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+
+Eyelashes*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+
+Face Shape*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+
+Hair*:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+Offset 20/Decoded Text:  
+Offset 21/Decoded Text: !
+Offset 22/Decoded Text: "
+Offset 23/Decoded Text: #
+Offset 24/Decoded Text: $
+Offset 25/Decoded Text: %
+Offset 26/Decoded Text: &
+Offset 27/Decoded Text: '
+
+Mouth:
+Offset 00/Decoded Text: �
+Offset 01/Decoded Text: ☺
+Offset 02/Decoded Text: ☻
+Offset 03/Decoded Text: ♥
+Offset 04/Decoded Text: ♦
+Offset 05/Decoded Text: ♣
+Offset 06/Decoded Text: ♠
+Offset 07/Decoded Text: •
+Offset 08/Decoded Text: ◘
+Offset 09/Decoded Text: ○
+Offset 0A/Decoded Text: ◙
+Offset 0B/Decoded Text: ♂
+Offset 0C/Decoded Text: ♀
+Offset 0D/Decoded Text: ♪
+Offset 0E/Decoded Text: ♫
+Offset 0F/Decoded Text: ☼
+Offset 10/Decoded Text: ►
+Offset 11/Decoded Text: ◄
+Offset 12/Decoded Text: ↕
+Offset 13/Decoded Text: ‼
+Offset 14/Decoded Text: ¶
+Offset 15/Decoded Text: §
+Offset 16/Decoded Text: ▬
+Offset 17/Decoded Text: ↨
+Offset 18/Decoded Text: ↑
+Offset 19/Decoded Text: ↓
+Offset 1A/Decoded Text: →
+Offset 1B/Decoded Text: ←
+Offset 1C/Decoded Text: ∟
+Offset 1D/Decoded Text: ↔
+Offset 1E/Decoded Text: ▲
+Offset 1F/Decoded Text: ▼
+Offset 20/Decoded Text:  
+Offset 21/Decoded Text: !
+Offset 22/Decoded Text: "
+Offset 23/Decoded Text: #
+Offset 24/Decoded Text: $
+Offset 25/Decoded Text: %
+Offset 26/Decoded Text: &
+Offset 27/Decoded Text: '
+
+* - Required to see the textures for more info. You can check at #the-hacker-hole and in pinned messages you can see the
+textures and you can download them just in case! The corresponding hex values are there too.
+
+***Data Locations:
+
+13A8E, 13B2A, 13BC6, 13C62, 13CFE, 13D9A, 13E36, 13ED2 - Antenna Appearance
+13A8F, 13B2B, 13BC7, 13C63, 13CFF, 13D9B, 13E37, 13ED3 - Head Shape
+13A90, 13B2C, 13BC8, 13C64, 13D00, 13D9C, 13E38, 13ED4 - Face Shape
+13A91, 13B2D, 13BC9, 13C65, 13D01, 13D9D, 13E39, 13ED5- Hair
+13A92, 13B2E, 13BCA, 13C66, 13D02, 13D9E, 13E3A, 13ED6- Eyelashes
+13A93, 13B2F, 13BCB, 13C67, 13D03, 13D9F, 13E3B, 13ED7- Eyes
+13A94, 13B30, 13BCC, 13C68, 13D04, 13DA0, 13E3C, 13ED8- Nose
+13A95, 13B31, 13BCD, 13C69, 13D05, 13DA1, 13E3D, 13ED9- Mouth
+13A96, 13B32, 13BCE, 13C6A, 13D06, 13DA2, 13E3E, 13EDA- Cheeks
+13A97, 13B33, 13BCF, 13C6B, 13D07, 13DA3, 13E3F, 13EDB- Glasses
+13A98, 13B34, 13BD0, 13C6C, 13D08, 13DA4, 13E40, 13EDC- Body Shape
+13A9A, 13B36, 13BD2, 13C6E, 13D0A, 13DA6, 13E42, 13EDE- Natural Color
+13A9B, 13B37, 13BD3, 13C6F, 13D0B, 13DA7, 13E43, 13EDF- Skin
+13A9C, 13B38, 13BD4, 13C70, 13D0C, 13DA8, 13E44, 13EE0- Hair Color
+13AA8, 13B44, 13BE0, 13C7C, 13D18, 13DB4, 13E50, 13EEC - Actual Antenna
+13AAC, 13B48, 13BE4, 13C80, 13D1C, 13DB8, 13E54, 13EF0- Level
