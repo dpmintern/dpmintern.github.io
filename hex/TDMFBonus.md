@@ -39,6 +39,3 @@ And the values (listen i know i took those from my citra save):
  ♠♫☻r
 
 Just at least make it different when copying those values from the 2nd denpa man to the 8th one.
--Elliot
-
-(P.S. it's been a while since i've made txts)

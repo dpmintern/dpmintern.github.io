@@ -1,0 +1,16 @@
+name: Broken link
+title: "[Missing]: <filepath>"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: What page were you coming from?
+      description: Paste link here
+      placeholder: ex. https://dpmintern.github.io/hex
+    validations:
+      required: true
